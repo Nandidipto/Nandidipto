@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipto</h1>
-<h3 align="center">💻 Web development enthusiast from Bangladesh, passionate about building modern, responsive websites and continuously learning new technologies. 🌐 Focused on front-end and full-stack development with a strong interest in clean, efficient code.</h3>
+<h3 align="center">💻 Web development enthusiast from Bangladesh, passionate about building modern, responsive websites and continuously learning new technologies.</br> 🌐 Focused on front-end and full-stack development with a strong interest in clean, efficient code.</h3>
 
 - 📫 How to reach me **diptonandi17@gmail.com**
 
