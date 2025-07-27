@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipto</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h3 align="center">💻 Web development enthusiast from Bangladesh, passionate about building modern, responsive websites and continuously learning new technologies. 🌐 Focused on front-end and full-stack development with a strong interest in clean, efficient code.</h3>
 
 - 📫 How to reach me **diptonandi17@gmail.com**
 
@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://fb.com/diptonandi17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diptonandi17" height="30" width="40" /></a>
 <a href="https://instagram.com/nandi_dipto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nandi_dipto" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@diptonandi5708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@diptonandi5708" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@diptonandi5708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@diptonandi5708" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
